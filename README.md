@@ -1,2 +1,2 @@
-# BiliAppBackups
-Backups of android bilibili application. 
+# BiriAppBackups
+Backups of android blibili application. 
